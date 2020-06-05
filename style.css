@@ -1,0 +1,30 @@
+h1 {
+    color: whitesmoke;
+    opacity: inherit;
+}
+
+.header {
+    background-color: teal;
+}
+
+.href {
+    background-color: slategray;
+    align-content: space-between;
+}
+
+.p {
+    color: black;
+    background-color: #15d31593;
+    justify-content: space-evenly;
+}
+
+.a {
+    background-color: #17a5d4;
+}
+
+.b {
+    background-color: #17a5d4;
+}
+.c {
+    background-color: #17a5d4;
+}
